@@ -70,8 +70,8 @@ school, Nov 2017 till date
 - Lead Volunteer, Computer Science department ‘RACE’- Organized one technical and a cultural event Jun 2014 – Jun 2016
 
 ## Hobbies that I am into
-- Avid Meditator.
-- Play decent Drums and Guitar.
-- Good at POI ball spinning (A visual art)
-- Photo Blogging of daily activities.
+- An avid meditator, who has for two students . 
+-  Play decent drums and Guitar.
+- Obsessed with POI Ball spinning, a visual art ( see below link)
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
