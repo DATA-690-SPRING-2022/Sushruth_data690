@@ -1,9 +1,9 @@
-# **Sushrutha DT**
+# **Sushrutha DT** 
 
 
 ![image ](https://github.com/SushruthDt/Sushruth_data690/blob/main/MyPic.png)
 
-## YOu can contact me by below means  : 
+## You can contact me by below means  : 
 
 1. Gmail - sdhummi1@umbc.edu
 2. LinkedIn - 	[My LinkedIn Profile](https://www.linkedin.com/in/sushrutha-dt/)
