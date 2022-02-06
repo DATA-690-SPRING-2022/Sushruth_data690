@@ -53,18 +53,25 @@ To be best version of my self in terms of Mind, Body and relations . To travel a
     *Visvesvaraya Institute of Technology, Bangalore, India*
  
  
- ## AWARDS 
-- Received ‘Apex Award’ at Accenture, for exhibiting Ownership in successful product Delivery, Dec 2019. 
-- Received ‘Excellence Award’ for Product Delivery by Aristos (AT&T), Jan 2019 
-- Received the ‘Prathibha Puraskar’ for achieving 98 percentile in 10th grade School from LIC India, Feb 2010
+ ## My so called Awards " " 
+- Recognized with excellence award ‘Apex Award’ at Accenture, for exhibiting ownership in successful product Delivery, Dec 2018.
+- Received ‘Excellence Award’ for Product Delivery by Aristos (AT&T), Jan 2018
+- Received the honorary award ‘Prathibha Puraskar’ for achieving 98 percentiles in School from LIC India, Feb 2012
+- Received Certificate of Merit among 280 students from Karnataka Vidhyabhivrudhi Samsthe for academic excellence in AISSE
+exam (12th grade)
 
-## COMMUNITY WORK
-- 6k Marathon for Cause – ‘RUN for Vrishabhavathi’, Lake encroachment Awareness, Sep 2019
-- 5k Marathon for Cause – ‘Educate Rural Child’, to promote standards of rural education, Dec 2018
-- Volunteer, Yuva (NGO)- Distributed medicinal plants to community, prepared over 1000 seed balls in government school, Nov 2017 till date 
+## Me giving back to community
+- Participated in 6k Marathon for Cause – ‘RUN for Vrishabhavathi’, Lake encroachment Awareness, Sep 2019
+- Participated in 5k Marathon for Cause – ‘Educate Rural Child’, to promote standards of rural education, Dec 2018
+- Accenture volunteer, Aristos (CSR event): Planted 20 trees, Bangalore, Jan 2018
+- Volunteer, Yuva (NGO)- Distributed medicinal plants to the local community, prepared over 2000 seed balls in a government
+school, Nov 2017 till date
+- Represented School athletic cricket team in various inter-university tournaments.
+- Lead Volunteer, Computer Science department ‘RACE’- Organized one technical and a cultural event Jun 2014 – Jun 2016
 
-
-
-
-
+## Hobbies that I am into
+- Avid Meditator.
+- Play decent Drums and Guitar.
+- Good at POI ball spinning (A visual art)
+- Photo Blogging of daily activities.
 
