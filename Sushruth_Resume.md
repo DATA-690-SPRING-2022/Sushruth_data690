@@ -74,4 +74,10 @@ school, Nov 2017 till date
 -  Play decent drums and Guitar.
 - Obsessed with POI Ball spinning, a visual art ( see below link)
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
+
+https://user-images.githubusercontent.com/45795026/152701685-e1f82125-395f-46df-9bdb-6fef5bfd9764.mp4
+
+
+
+
