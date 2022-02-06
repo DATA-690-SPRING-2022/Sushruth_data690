@@ -1,7 +1,7 @@
 # **Sushrutha DT** 
 
 
-![image ](https://github.com/SushruthDt/Sushruth_data690/blob/main/MyPic.png)
+![MyPhoto ](https://github.com/SushruthDt/Sushruth_data690/blob/main/Assignment_1/MyPic.png)
 
 ## You can contact me by below means  : 
 
@@ -74,9 +74,11 @@ school, Nov 2017 till date
 -  Play decent drums and Guitar.
 - Obsessed with POI Ball spinning, a visual art ( see below link)
 
+https://user-images.githubusercontent.com/45795026/152701881-a7fe5a3a-d701-4211-a8c7-9e8ca9b2c33c.mp4
 
 
-https://user-images.githubusercontent.com/45795026/152701685-e1f82125-395f-46df-9bdb-6fef5bfd9764.mp4
+
+
 
 
 
