@@ -12,7 +12,7 @@
 ## My Career Objective
 To be one of the Product Directors in green intiative company, which has mission to create products that helps humans to live more sustainably and bring more awareness towards earths health. 
 
-## My Personal Ovjective
+## My Personal Objective
 To be best version of my self in terms of Mind, Body and relations . To travel all major Wildlife National parks of the world and adopt girl orphan's tuition or medical expenses. Be the reason to smile for people around me. 
 
 
