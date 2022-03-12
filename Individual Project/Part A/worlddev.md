@@ -33,6 +33,8 @@ In order to curb the green house emissions, It is essential that the countries i
 ![newplot (5)](https://user-images.githubusercontent.com/45795026/158033411-2d32ecb1-a3dc-4306-9848-708f9100d788.png)
 
 
+![newplot (2)](https://user-images.githubusercontent.com/45795026/158034878-cdc1ea94-c8f0-45ad-acd7-ee123e900eda.png)
+
 ![newplot (5)](https://user-images.githubusercontent.com/45795026/158033302-a20eca7e-e9d9-4911-b263-36475e89a798.png)
 
 ![newplot (7)](https://user-images.githubusercontent.com/45795026/158033308-b6187548-71db-4542-bf20-449a0e121054.png)
