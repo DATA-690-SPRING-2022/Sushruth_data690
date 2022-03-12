@@ -1,4 +1,7 @@
 # Analysis on G20 countries from 2000 to 2018, If they are really helping to save earth.
+
+<img width="529" alt="image" src="https://user-images.githubusercontent.com/45795026/158034547-34802eff-2985-4e31-8a1f-9b601c21a954.png">
+
 -------------------------
 *By : Sushrutha DT* 
 *ID : MM73053*
@@ -67,7 +70,25 @@ https://user-images.githubusercontent.com/45795026/158033466-c8dc3757-89e1-455c-
 https://user-images.githubusercontent.com/45795026/158033840-c7bb3eb3-9fbb-44eb-b23c-475327c00935.mp4
 
 
+## References 
 
+https://www.cnn.com/2021/09/15/world/climate-pledges-insufficient-cat-intl/index.html
+
+https://www.fs.usda.gov/ccrc/topics/importance-forest-cover
+
+https://www.nytimes.com/2022/02/28/climate/climate-change-ipcc-report.html
+
+
+
+----------------------
+
+Since this is draft, I will be working on the below pointers in my final version 
+
+1. Give more obervations to the Images and name the images and videos.
+
+2. Make my dociment like a story flow.
+
+3. I will add section of - Strategy and Approach and conclusitions 
 
 
 
