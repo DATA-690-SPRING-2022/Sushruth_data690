@@ -69,7 +69,7 @@ Agricultural deforestation accounts for roughly 80% of tropical deforestation, w
 
 ![newplot (8)](https://user-images.githubusercontent.com/45795026/158033400-dec6861b-80ac-4dbb-b0f1-921691c1c89a.png)
 
-The above Figure, shows the line of G20 as per to know agricultural land area. 
+The above Figure 5, shows the line of G20 as per to know agricultural land area. 
 Observation - 
 - South Africa, Saudi Arabia, United Kingdom and India are among the top G20 countires to have highest agricultural land.
 - Canada, Russia and Japan have the lost % of agricultural land compared to other G20 countires.
@@ -77,21 +77,33 @@ Observation -
 https://user-images.githubusercontent.com/45795026/158033413-35e4afb1-759b-4874-9e50-1cbe45e813e2.mp4
 
 
+the above video 2, depicts the below observation - 
+- We can explain the above hypothesis for decrease in land cover in argentina over the years because, they have been inscresing their land cover exponential over couple of decade. Argentina has climbed up the ladder in % aggriculture land. 
+- Australia has adopted sustainable agricutlre and decreased its agriculture land and focused on increase in forest cover. 
+- United States have signifincantly increased its agricultural cover over the years as compared to India, where the agricultural land % is the same. 
 
 * ### C. Green House gas emission by G20 countries. * 
+
+Climate forcing is defined as a shift in the Earth's energy balance that results in either a warming or cooling effect over time. An increase in greenhouse gas concentrations in the atmosphere causes positive climate forcing, or warming. Between 1990 and 2019, the total warming effect of greenhouse gases added to the Earth's atmosphere by humans increased by 45 percent. The warming effect caused by carbon dioxide alone increased by 36%.
 
 
 https://user-images.githubusercontent.com/45795026/158033466-c8dc3757-89e1-455c-a819-1ac593de08a3.mp4
 
-
-
-
-* ### D. Green House gas emission by G20 countries. * 
-
+The video 3 above shows which G20 countires have been majorly contributing for global warming ,
+- China is the only coountry who does not care about the global warming effect, as theve have been exponentially the highest contributer to green house gases. 
+- India being the highest populated country, is doing really well compared to china, whi is the highest emitter .
+- United States is more or less in same scale of 7M kt of CO2 gases. 
+- Brazil and Indonesia greenhouse emission has increases, as result of their agricultural Expansion and decrease in forest cover. 
+- Saudi Arabia has significantly moved up the spots in green house gas emittor.
 
 
 https://user-images.githubusercontent.com/45795026/158033840-c7bb3eb3-9fbb-44eb-b23c-475327c00935.mp4
 
+the Above Figure 6 shows the correlation between greenhouse gase change with respect to Agricultre Land and Forest land cover.
+
+## Conclusion
+My study attests that there is clearly coorelation between the impact on greenhouse emission on increase or decrease of Forest area and agricultral land cover. 
+Its about time that these top countires that they call themselves as advanced and developed countries, and they are being the main factor for earths health. Very few countries like Italy, Europe, Germany, Canada and India, are doing good and helping earth in environmental aspects. However, countries like China, Argentina, Indonesia and Brazil have significantly affected to greenhouse gases in many different ways as possible. 
 
 ## References 
 
@@ -101,7 +113,9 @@ https://www.fs.usda.gov/ccrc/topics/importance-forest-cover
 
 https://www.nytimes.com/2022/02/28/climate/climate-change-ipcc-report.html
 
+https://www.epa.gov/climate-indicators/greenhouse-gases#:~:text=An%20increase%20in%20the%20atmospheric,atmosphere%20increased%20by%2045%20percent.
 
+https://news.mongabay.com/2012/09/agriculture-causes-80-of-tropical-deforestation/
 
 ----------------------
 
