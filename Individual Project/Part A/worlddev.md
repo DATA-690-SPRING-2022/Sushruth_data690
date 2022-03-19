@@ -51,7 +51,8 @@ Figure 4 below, shows the timeline of forest cover change across G20 countries .
 ![newplot (7)](https://user-images.githubusercontent.com/45795026/158033308-b6187548-71db-4542-bf20-449a0e121054.png)
 
 
-* Change in forest cover over the years *
+* Change in forest cover over the years * 
+> Play the video below
 
 https://user-images.githubusercontent.com/45795026/158033329-33ae7070-903b-4b16-9211-8141e3679c3d.mp4
 
@@ -74,6 +75,8 @@ Observation -
 - South Africa, Saudi Arabia, United Kingdom and India are among the top G20 countires to have highest agricultural land.
 - Canada, Russia and Japan have the lost % of agricultural land compared to other G20 countires.
 
+> Play the video below
+
 https://user-images.githubusercontent.com/45795026/158033413-35e4afb1-759b-4874-9e50-1cbe45e813e2.mp4
 
 
@@ -86,6 +89,7 @@ the above video 2, depicts the below observation -
 
 Climate forcing is defined as a shift in the Earth's energy balance that results in either a warming or cooling effect over time. An increase in greenhouse gas concentrations in the atmosphere causes positive climate forcing, or warming. Between 1990 and 2019, the total warming effect of greenhouse gases added to the Earth's atmosphere by humans increased by 45 percent. The warming effect caused by carbon dioxide alone increased by 36%.
 
+> Play the video below
 
 https://user-images.githubusercontent.com/45795026/158033466-c8dc3757-89e1-455c-a819-1ac593de08a3.mp4
 
@@ -96,6 +100,7 @@ The video 3 above shows which G20 countires have been majorly contributing for g
 - Brazil and Indonesia greenhouse emission has increases, as result of their agricultural Expansion and decrease in forest cover. 
 - Saudi Arabia has significantly moved up the spots in green house gas emittor.
 
+> Play the video below
 
 https://user-images.githubusercontent.com/45795026/158033840-c7bb3eb3-9fbb-44eb-b23c-475327c00935.mp4
 
