@@ -119,13 +119,7 @@ https://news.mongabay.com/2012/09/agriculture-causes-80-of-tropical-deforestatio
 
 ----------------------
 
-Since this is draft, I will be working on the below pointers in my final version 
 
-1. Give more obervations to the Images and name the images and videos.
-
-2. Make my dociment like a story flow.
-
-3. I will add section of - Strategy and Approach and conclusitions 
 
 
 
